@@ -1,62 +1,60 @@
 <h1 align="center">Hi, I'm Abhisek Panda 👋</h1>
+<h3 align="center">B.Tech Graduate 2025 | Java Full Stack & Backend Developer</h3>
 
 <p align="center">
-  B.Tech Graduate 2025 | Java Full Stack & Backend Developer
+  <a href="https://www.linkedin.com/in/abhisek-panda-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abhisekpanda114@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
----
+<br/>
 
 ### 🚀 About Me
 
-I’m passionate about building scalable backend systems and clean, intuitive user experiences. Skilled in Java and Spring Boot on the backend, with hands-on experience developing web applications using modern frontend frameworks.
+I’m a passionate **Java Full Stack Developer** focused on building scalable backend systems and clean, intuitive user experiences. With a strong foundation in **Java** and **Spring Boot**, I enjoy solving complex problems and developing efficient web applications.
 
-I’m currently seeking opportunities as a **Java Full Stack Developer** or **Backend Engineer**.
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **Advanced Microservices & Cloud Native Tech**
+- � I’m looking to collaborate on **Open Source Java Projects**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, and React**
 
----
+<br/>
 
-### 🛠️ Tech Toolbox
+### 🛠️ Tech Stack
 
-#### Backend
-Java • Spring Boot • REST APIs • JPA/Hibernate • MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,react,bootstrap,vite,git,github,postman,maven,linux&perline=8" alt="My Skills" />
+</p>
 
-#### Frontend
-HTML • CSS • JavaScript • React • Bootstrap • Vite
-
-#### Tools & Others
-Git • GitHub • Postman • Maven • Linux Basics
-
----
+<br/>
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Blog App** | A full-stack blog management platform with user authentication and CRUD features | React, Spring Boot, MySQL |
-| **Monolithic E-Com** | A modern e-commerce application with responsive UI for browsing products, carts & orders | React, Vite |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **📝 Blog App** | A full-stack blog management platform with user authentication and CRUD features. | React, Spring Boot, MySQL |
+| **🛒 Monolithic E-Com** | A modern e-commerce application with a responsive UI for browsing products, managing carts, and processing orders. | React, Vite |
 
-🔗 Explore more in my pinned repositories!
-
----
+<br/>
 
 ### 🏅 Certifications
 
-- Spring Security — EmbarkX (Udemy)
-- Postman Student Expert Program
+- 🔐 **Spring Security** — EmbarkX (Udemy)
+- 🚀 **Postman Student Expert Program**
 
----
+<br/>
 
-### 📫 Connect With Me
+### � GitHub Stats
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abhisek-panda-" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:abhisekpanda114@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Panda-Abhisek&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhisek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda-Abhisek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
+<br/>
 
-<p align="center">Thanks for stopping by! ✨</p>
+<p align="center">Thanks for visiting! ✨</p>
