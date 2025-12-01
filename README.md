@@ -37,7 +37,7 @@ I’m a passionate **Java Full Stack Developer** focused on building scalable ba
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **📝 Blog App** | A full-stack blog management platform with user authentication and CRUD features. | React, Spring Boot, MySQL |
-| **🛒 Monolithic E-Com** | A modern e-commerce application with a responsive UI for browsing products, managing carts, and processing orders. | React, Vite |
+| **🛒 Monolithic E-Com** | A modern e-commerce application with a responsive UI for browsing products, managing carts, and processing orders. | React, Vite, Spring Boot, MySQL |
 
 <br/>
 
