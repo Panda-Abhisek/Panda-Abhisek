@@ -57,4 +57,8 @@ I’m a passionate **Java Full Stack Developer** focused on building scalable ba
 
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+<br/>
+
 <p align="center">Thanks for visiting! ✨</p>
