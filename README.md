@@ -27,24 +27,26 @@ I’m a passionate **Java Full Stack Developer** focused on building scalable ba
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,react,bootstrap,vite,git,github,postman,maven,linux&perline=8" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nginx,hibernate,postgresql,mysql,html,css,js,react,bootstrap,vite,git,github,postman,maven,docker,linux&perline=8" alt="My Skills" />
 </p>
 
 <br/>
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **📝 Blog App** | A full-stack blog management platform with user authentication and CRUD features. | React, Spring Boot, MySQL |
-| **🛒 Monolithic E-Com** | A modern e-commerce application with a responsive UI for browsing products, managing carts, and processing orders. | React, Vite, Spring Boot, MySQL |
+| Project | Description | Tech Stack | Link
+| :--- | :--- | :--- | :--- |
+| **💇 Salon SaaS** | A comprehensive salon management platform for scheduling appointments, managing customers, and handling billing. | React, Spring Boot, PostgreSQL, Stripe | https://salon-mgt.abhisekpanda.co.in |
+| **📝 Blog App** | A full-stack blog management platform with user authentication and CRUD features. | React, Spring Boot, MySQL | https://blog-app.abhisekpanda.co.in |
+| **🛒 Monolithic E-Com** | A modern e-commerce application with a responsive UI for browsing products, managing carts, and processing orders. | React, Vite, Spring Boot, MySQL | https://ecom.abhisekpanda.co.in |
 
 <br/>
 
 ### 🏅 Certifications
 
+- ☕ **Java SpringBoot Full Stack** — EmbarkX (Udemy)
 - 🔐 **Spring Security** — EmbarkX (Udemy)
-- 🚀 **Postman Student Expert Program**
+- 🚀 **Postman Student Expert Program** — Postman
 
 <br/>
 
