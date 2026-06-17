@@ -20,14 +20,14 @@ I’m a passionate **Java Full Stack Developer** focused on building scalable ba
 - 🔭 I’m currently working on **Full Stack Web Development**
 - 🌱 I’m currently learning **Advanced Microservices & Cloud Native Tech**
 - � I’m looking to collaborate on **Open Source Java Projects**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, and React**
+- 💬 Ask me about **Java, Python, Spring Boot, Django, REST APIs, and React**
 
 <br/>
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nginx,hibernate,postgresql,mysql,html,css,js,react,bootstrap,vite,git,github,postman,maven,docker,linux&perline=8" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nginx,hibernate,postgresql,mysql,html,css,js,react,bootstrap,vite,git,github,postman,maven,docker,linux&perline=8" alt="My Skills" />
 </p>
 
 <br/>
@@ -36,6 +36,7 @@ I’m a passionate **Java Full Stack Developer** focused on building scalable ba
 
 | Project | Description | Tech Stack | Link
 | :--- | :--- | :--- | :--- |
+| **☕ Tea Catalog** | Full-stack Tea Catalog application built with Django REST Framework and React. Features JWT authentication, search, filtering, image uploads, PostgreSQL integration, and production deployment on OCI and Vercel. | Python, React, Django, PostgreSQL, Gunicorn | https://tea.abhisekpanda.co.in|
 | **💇 Salon SaaS** | A comprehensive salon management platform for scheduling appointments, managing customers, and handling billing. | React, Spring Boot, PostgreSQL, Stripe | https://salon-mgt.abhisekpanda.co.in |
 | **📝 Blog App** | A full-stack blog management platform with user authentication and CRUD features. | React, Spring Boot, PostgreSQL | https://blog-app.abhisekpanda.co.in |
 | **🛒 Monolithic E-Com** | A modern e-commerce application with a responsive UI for browsing products, managing carts, and processing orders. | React, Vite, Spring Boot, PostgreSQL | https://ecom.abhisekpanda.co.in |
