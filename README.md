@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhisek Panda 👋</h1>
-<h3 align="center">B.Tech Graduate 2025 | Java Full Stack & Backend Developer</h3>
+<h3 align="center">B.Tech Graduate 2025 | Java / Python Full Stack & Backend Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhisek-panda-" target="_blank">
@@ -15,9 +15,9 @@
 
 ### 🚀 About Me
 
-I’m a passionate **Java Full Stack Developer** focused on building scalable backend systems and clean, intuitive user experiences. With a strong foundation in **Java** and **Spring Boot**, I enjoy solving complex problems and developing efficient web applications.
+I’m a passionate **Backend Engineer & Full Stack Developer** focused on building scalable backend systems and clean, intuitive user experiences. With a strong foundation in **Java** and **Spring Boot**, I enjoy solving complex problems and developing efficient web applications.
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Backend Engineering & Full Stack Web Development**
 - 🌱 I’m currently learning **Advanced Microservices & Cloud Native Tech**
 - � I’m looking to collaborate on **Open Source Java Projects**
 - 💬 Ask me about **Java, Python, Spring Boot, Django, REST APIs, and React**
