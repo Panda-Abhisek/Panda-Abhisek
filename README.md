@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Backend Engineer & Full Stack Developer** with expertise in building scalable backend systems, RAG (Retrieval-Augmented Generation) applications, and clean, intuitive user exper[...]
+I'm a passionate **Backend Engineer & Full Stack Developer** with expertise in building scalable backend systems, RAG (Retrieval-Augmented Generation) applications, and clean, intuitive user experiences.
 
 - 🔭 I'm currently working on **Backend Engineering, Full Stack Web Development & RAG Applications**
 - 🌱 I'm currently learning **Advanced Microservices, Cloud Native Tech & LLM Integration**
@@ -27,7 +27,7 @@ I'm a passionate **Backend Engineer & Full Stack Developer** with expertise in b
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nginx,hibernate,postgresql,mysql,html,css,js,react,bootstrap,vite,git,github,postman,maven,docker,linux&perline=8" alt="My Skil[...]
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nginx,hibernate,postgresql,mysql,html,css,js,react,bootstrap,vite,git,github,postman,maven,docker,linux&perline=8" alt="My Skills" />
 </p>
 
 <br/>
@@ -37,10 +37,10 @@ I'm a passionate **Backend Engineer & Full Stack Developer** with expertise in b
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **🤖 Sentinel RAG** | Retrieval-Augmented Generation system for intelligent document processing and querying. | Python | https://github.com/Panda-Abhisek/sentinel-rag |
-| **☕ Tea Catalog** | Full-stack Tea Catalog application built with Django REST Framework and React. Features JWT authentication, search, filtering, image uploads, PostgreSQL integration, and pr[...] |
-| **💇 Salon SaaS** | A comprehensive salon management platform for scheduling appointments, managing customers, and handling billing. | React, Spring Boot, PostgreSQL, Stripe | https://salon-mg[...] |
+| **☕ Tea Catalog** | Full-stack Tea Catalog application built with Django REST Framework and React. Features JWT authentication, search, filtering, image uploads, PostgreSQL integration. | Django, React, PostgreSQL | https://github.com/Panda-Abhisek/tea-catalog |
+| **💇 Salon SaaS** | A comprehensive salon management platform for scheduling appointments, managing customers, and handling billing. | React, Spring Boot, PostgreSQL, Stripe | https://salon-management.abhisekpanda.co.in |
 | **📝 Blog App** | A full-stack blog management platform with user authentication and CRUD features. | React, Spring Boot, PostgreSQL | https://blog-app.abhisekpanda.co.in |
-| **🛒 Monolithic E-Com** | A modern e-commerce application with a responsive UI for browsing products, managing carts, and processing orders. | React, Vite, Spring Boot, PostgreSQL | https://ec[...] |
+| **🛒 Monolithic E-Com** | A modern e-commerce application with a responsive UI for browsing products, managing carts, and processing orders. | React, Vite, Spring Boot, PostgreSQL | https://ecommerce.abhisekpanda.co.in |
 
 <br/>
 
