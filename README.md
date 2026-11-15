@@ -38,7 +38,7 @@ I'm a passionate **Backend Engineer & Full Stack Developer** with expertise in b
 | :--- | :--- | :--- | :--- |
 | **🤖 Sentinel RAG** | Retrieval-Augmented Generation system for intelligent document processing and querying. | Python | https://github.com/Panda-Abhisek/sentinel-rag |
 | **☕ Tea Catalog** | Full-stack Tea Catalog application built with Django REST Framework and React. Features JWT authentication, search, filtering, image uploads, PostgreSQL integration. | Django, React, PostgreSQL | https://github.com/Panda-Abhisek/tea-catalog |
-| **💇 Salon SaaS** | A comprehensive salon management platform for scheduling appointments, managing customers, and handling billing. | React, Spring Boot, PostgreSQL, Stripe | https://salon-management.abhisekpanda.co.in |
+| **💇 Salon SaaS** | A comprehensive salon management platform for scheduling appointments, managing customers, and handling billing. | React, Spring Boot, PostgreSQL, Stripe | https://salon-mgt.abhisekpanda.co.in |
 | **📝 Blog App** | A full-stack blog management platform with user authentication and CRUD features. | React, Spring Boot, PostgreSQL | https://blog-app.abhisekpanda.co.in |
 | **🛒 Monolithic E-Com** | A modern e-commerce application with a responsive UI for browsing products, managing carts, and processing orders. | React, Vite, Spring Boot, PostgreSQL | https://ecommerce.abhisekpanda.co.in |
 
